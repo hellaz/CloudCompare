@@ -24,9 +24,9 @@ layout: home
     <meta property="og:site_name" content="A Public Cloud Comparison | AWS vs Azure vs Google vs IBM vs Oracle vs Alibaba">
     <meta property="og:image" content="/img/Logo_small.jpg">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@Ilyas_tweets">
-    <meta name="twitter:creator" content="@Ilyas_tweets">
-    <meta property="article:author" content="https://www.facebook.com/IlyasTheWebizen">
+    <meta name="twitter:site" content="@">
+    <meta name="twitter:creator" content="@">
+    <meta property="article:author" content="https://www.facebook.com/sitez.GR">
     <meta name="twitter:description" content="A detailed public cloud services comparison & mapping of Amazon AWS, Microsoft Azure, Google Cloud, IBM Cloud, Oracle Cloud.">
     <meta name="twitter:title" content="A public Cloud Compareison : AWS vs Azure vs Google vs IBM vs Oracle vs Alibaba">
     <title>AWS vs Azure vs Google vs IBM vs Oracle vs Alibaba | A detailed comparison and mapping between various cloud services</title>
